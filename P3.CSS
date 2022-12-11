@@ -1,0 +1,29 @@
+
+.assign-3-shape-1{
+    width: 400px;
+    font-size: 150%;
+    background-color: lightgray;
+    margin: 70px;
+    padding: 25px;
+    border-left: 10px solid pink;
+    outline: 20px solid lightgray ;
+}
+.assign-3-shape-2{
+    width: 400px;
+    font-size: 150%;
+    visibility: hidden;
+    background-color: lightgray;
+    margin: 70px;
+    padding: 25px;
+    border-left: 10px solid pink;
+    outline: 20px solid lightgray ;
+}
+.assign-3-shape-3{
+    width: 400px;
+    font-size: 150%;
+    background-color: lightgray;
+    margin: 70px;
+    padding: 25px;
+    border-left: 10px solid rgb(0, 153, 153);
+    outline: 20px solid lightgray ;
+}

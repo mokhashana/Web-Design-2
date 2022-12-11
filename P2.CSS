@@ -1,0 +1,29 @@
+
+.assign-2-shape-1{
+    margin: 15px;
+    padding: 10px;
+    border: 5px red solid;
+    outline: 5px black solid;
+    background-color: lightgray;
+    display: inline-block;
+}
+.assign-2-shape-2{
+    margin: 15px;
+    padding: 10px;
+    border-width: 5px;
+    border-color: blue green;
+    border-style: solid;
+    outline: 5px black solid;
+    background-color: lightgray;
+    display: inline-block;
+}
+.assign-2-shape-3{
+    margin: 15px;
+    padding: 10px;
+    border-width: 5px;
+    border-color: yellow red green blue;
+    border-style: dashed;
+    outline: 5px black solid;
+    background-color: lightgray;
+    display: inline-block;
+}
